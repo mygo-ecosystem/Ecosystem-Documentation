@@ -1,0 +1,2 @@
+# myGO - Privacy focused analytics
+

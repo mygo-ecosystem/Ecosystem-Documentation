@@ -1,0 +1,73 @@
+# Table of contents
+
+## Ecosystem
+
+* [Ecosystem Overview](README.md)
+
+## Platforms
+
+* [myGO - Digital Innovation Agency](platforms/mygo-digital-innovation-agency/README.md)
+  * [Services Overview](platforms/mygo-digital-innovation-agency/services-overview/README.md)
+    * [Strategic Consulting](platforms/mygo-digital-innovation-agency/services-overview/strategic-consulting.md)
+    * [Project Management](platforms/mygo-digital-innovation-agency/services-overview/project-management.md)
+    * [AI Development](platforms/mygo-digital-innovation-agency/services-overview/ai-development.md)
+    * [WEB3 Development](platforms/mygo-digital-innovation-agency/services-overview/web3-development.md)
+    * [Web Development](platforms/mygo-digital-innovation-agency/services-overview/web-development.md)
+    * [Mobile App Development](platforms/mygo-digital-innovation-agency/services-overview/mobile-app-development.md)
+    * [SEO Optimization](platforms/mygo-digital-innovation-agency/services-overview/seo-optimization.md)
+    * [UX/UI Design](platforms/mygo-digital-innovation-agency/services-overview/ux-ui-design.md)
+    * [Cloud Services](platforms/mygo-digital-innovation-agency/services-overview/cloud-services.md)
+    * [Online Advertising](platforms/mygo-digital-innovation-agency/services-overview/online-advertising.md)
+    * [Social Media Marketing](platforms/mygo-digital-innovation-agency/services-overview/social-media-marketing.md)
+    * [Technical Improvement](platforms/mygo-digital-innovation-agency/services-overview/technical-improvement.md)
+  * [Industries](platforms/mygo-digital-innovation-agency/industries.md)
+* [SERVER1 - Hosting Solutions](platforms/server1-hosting-solutions/README.md)
+  * [Products Overview](platforms/server1-hosting-solutions/products-overview/README.md)
+    * [Hosting](platforms/server1-hosting-solutions/products-overview/hosting/README.md)
+      * [Web Hosting](platforms/server1-hosting-solutions/products-overview/hosting/web-hosting.md)
+      * [WordPress Hosting](platforms/server1-hosting-solutions/products-overview/hosting/wordpress-hosting.md)
+      * [Reseller Hosting](platforms/server1-hosting-solutions/products-overview/hosting/reseller-hosting.md)
+    * [VPS Hosting](platforms/server1-hosting-solutions/products-overview/vps-hosting/README.md)
+      * [Managed VPS Hosting](platforms/server1-hosting-solutions/products-overview/vps-hosting/managed-vps-hosting.md)
+      * [VPS Hosting Georgia](platforms/server1-hosting-solutions/products-overview/vps-hosting/vps-hosting-georgia.md)
+      * [VPS Hosting Global Coverage](platforms/server1-hosting-solutions/products-overview/vps-hosting/vps-hosting-global-coverage.md)
+    * [Servers](platforms/server1-hosting-solutions/products-overview/servers/README.md)
+      * [Managed Servers](platforms/server1-hosting-solutions/products-overview/servers/managed-servers.md)
+      * [Servers](platforms/server1-hosting-solutions/products-overview/servers/servers.md)
+      * [GPU Servers](platforms/server1-hosting-solutions/products-overview/servers/gpu-servers.md)
+    * [Security](platforms/server1-hosting-solutions/products-overview/security/README.md)
+      * [SSL Certificates](platforms/server1-hosting-solutions/products-overview/security/ssl-certificates.md)
+      * [Website Security](platforms/server1-hosting-solutions/products-overview/security/website-security.md)
+      * [Email Security](platforms/server1-hosting-solutions/products-overview/security/email-security.md)
+    * [Domains](platforms/server1-hosting-solutions/products-overview/domains/README.md)
+      * [Domain Search](platforms/server1-hosting-solutions/products-overview/domains/domain-search.md)
+      * [Domain Transfer](platforms/server1-hosting-solutions/products-overview/domains/domain-transfer.md)
+      * [Domain Prices](platforms/server1-hosting-solutions/products-overview/domains/domain-prices.md)
+    * [Email](platforms/server1-hosting-solutions/products-overview/email/README.md)
+      * [Google Workspace](platforms/server1-hosting-solutions/products-overview/email/google-workspace.md)
+      * [Zoho Mail](platforms/server1-hosting-solutions/products-overview/email/zoho-mail.md)
+      * [Roundcube](platforms/server1-hosting-solutions/products-overview/email/roundcube.md)
+  * [For Partners](platforms/server1-hosting-solutions/for-partners/README.md)
+    * [For Developers](platforms/server1-hosting-solutions/for-partners/for-developers.md)
+    * [For Agencies](platforms/server1-hosting-solutions/for-partners/for-agencies.md)
+    * [For Ecommerce](platforms/server1-hosting-solutions/for-partners/for-ecommerce.md)
+    * [For Startups](platforms/server1-hosting-solutions/for-partners/for-startups.md)
+    * [Migration](platforms/server1-hosting-solutions/for-partners/migration.md)
+  * [Support](platforms/server1-hosting-solutions/support/README.md)
+    * [Knowledge Base](platforms/server1-hosting-solutions/support/knowledge-base.md)
+    * [Submit a Ticket](platforms/server1-hosting-solutions/support/submit-a-ticket.md)
+    * [Migration](platforms/server1-hosting-solutions/support/migration.md)
+    * [SLA](platforms/server1-hosting-solutions/support/sla.md)
+  * [Brand Assets](platforms/server1-hosting-solutions/brand-assets.md)
+* [mySEO - SEO Tool](platforms/myseo-seo-tool.md)
+* [Linkers - Smart links](platforms/linkers-smart-links.md)
+* [myGO - Privacy focused analytics](platforms/mygo-privacy-focused-analytics.md)
+
+## Miscellaneous
+
+* [Links & Resources](miscellaneous/links-and-resources.md)
+
+## Support
+
+* [How to contact?](support/how-to-contact.md)
+* [Frequently Asked Questions](support/frequently-asked-questions.md)
