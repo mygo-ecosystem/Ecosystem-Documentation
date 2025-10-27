@@ -46,30 +46,30 @@ This documentation hub brings together **all products in our ecosystem** - from 
 
 ### Platform snapshots
 
-#### SERVER1 - Hosting Solutions
+#### [SERVER1 - Hosting Solutions](platforms/server1-hosting-solutions/)
 
 * **Products:** Web/WordPress/Reseller Hosting, Managed VPS, VPS (Georgia & Global), Managed/Dedicated/GPU Servers
 * **Security:** SSL/TLS 1.3, WAF, malware scan, SPF/DKIM/DMARC for email
 * **Reliability:** Daily/weekly backups, monitoring & alerting, 99%+ uptime SLA
 * **Domains & Email:** Search/transfer/pricing, Google Workspace, Zoho Mail, Roundcube
 
-#### myGO - Digital Innovation Agency
+#### [myGO - Digital Innovation Agency](platforms/mygo-digital-innovation-agency/)
 
 * **Services:** Strategy, UX/UI, Web & Mobile, AI & Web3, SEO content ops, launch & growth
 * **Deliverables:** Discovery & SOW, design systems, production-ready builds, GTM runbooks
 * **Collaboration:** Agile rituals, transparent roadmaps, measurable outcomes
 
-#### mySEO - SEO Tool
+#### [mySEO - SEO Tool](platforms/myseo-seo-tool.md)
 
 * **Focus:** Technical audits, on-page/NLP signals, internal-link recommendations
 * **Outcomes:** Health scores, prioritized fixes, content briefs that rank, automated checks
 
-#### Linkers - Smart Links
+#### [Linkers - Smart Links](platforms/linkers-smart-links.md)
 
 * **Capabilities:** Branded short URLs, UTM governance, link-in-bio, QR, A/B destinations
 * **Insight:** Channel/source attribution that feeds SEO and analytics dashboards
 
-#### Privacy-Focused Analytics
+#### [Privacy-Focused Analytics](./#privacy-focused-analytics)
 
 * **Approach:** First-party tracking, consent-aware measurement, server-side options
 * **Value:** Actionable reporting without sacrificing user privacy or compliance needs
